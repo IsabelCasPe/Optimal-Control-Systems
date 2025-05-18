@@ -7,6 +7,9 @@ Bem-vindo ao repositório **Optimal-Control-Systems**! Este repositório foi cri
 ## 🎯 **Objetivo do Repositório**
 O objetivo é compartilhar conhecimento e materiais para ajudar pesquisadores, engenheiros e entusiastas de matemática a explorar o fascinante mundo do **Controle Ótimo**. Aqui você encontrará **teoria**, **exemplos práticos**, **algoritmos** e **aplicações** que vão desde o controle de sistemas dinâmicos até a otimização de portfólios financeiros.
 
+# Licença
+📚 Este repositório é licenciado sob Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Veja os detalhes em LICENSE.md.
+
 ## 📁 **Estrutura do Repositório**
 
 - **Theory/** - Conceitos e fundamentos teóricos
@@ -28,6 +31,7 @@ Se quiser ver mais dos meus trabalhos, visite meu site pessoal: [isabelcaspe.git
 
 ## 📬 **Contato**
 Para dúvidas ou sugestões, entre em contato: [anacp20@gmail.com](mailto:anacp20@gmail.com)
+Feito com <3 por Prof. Ana Isabel Castillo
 
 🌟 **Se você gostou deste repositório, deixe uma estrela e continue explorando o mundo do Controle Ótimo!** 🌟
 
