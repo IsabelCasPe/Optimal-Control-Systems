@@ -9,7 +9,7 @@ O objetivo é compartilhar conhecimento e materiais para ajudar pesquisadores, e
 
 # Licença
 📚 Este repositório é licenciado sob Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Veja os detalhes em LICENSE.md.
-
+Copyright © 2025
 ## 📁 **Estrutura do Repositório**
 
 - **Theory/** - Conceitos e fundamentos teóricos
@@ -31,7 +31,13 @@ Se quiser ver mais dos meus trabalhos, visite meu site pessoal: [isabelcaspe.git
 
 ## 📬 **Contato**
 Para dúvidas ou sugestões, entre em contato: [anacp20@gmail.com](mailto:anacp20@gmail.com)
-Feito com <3 por Prof. Ana Isabel Castillo
+Feito com 💙 por Prof. Ana Isabel Castillo
 
 🌟 **Se você gostou deste repositório, deixe uma estrela e continue explorando o mundo do Controle Ótimo!** 🌟
 
+---
+## Inspiration.
+> "Nos caminhos do controle ótimo, a matemática guia a incerteza @Optimal-Control-Systems, onde a estratégia encontra a eficiência." 🎯📐⚙️📊🧭
+>  Copyright © 2025 Prof. Ana Isabel C. 💙
+
+---
