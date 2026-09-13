@@ -1,5 +1,5 @@
 <!-- HERO -->
-# Arte & Ciência em Movimento — Matemática Viva 💎🔁🧭📈 ✨
+# Arte & Ciência em Movimento - Matemática Viva 💎🔁🧭📈 ✨
 [![USP](https://img.shields.io/badge/USP-Dissertação-0A3D91?logo=academia&logoColor=white)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -8,6 +8,11 @@
 ![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
 
 **PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Apache License](#licença--license--licencia)
+
+---
+
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@isabel__maths-C0C0C0?logo=instagram&logoColor=black)](https://www.instagram.com/isabel_maths/)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-IsabelCasPe_Maths_∞-C0C0C0?logo=youtube&logoColor=black)](https://www.youtube.com/@isabelcastillo4230)
 
 ---
 ## Optimal-Control-Systems
